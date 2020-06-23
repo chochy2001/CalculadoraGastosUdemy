@@ -1,0 +1,27 @@
+Esta es una calculadora de gastos en transporte. 
+Sus autores son Ricardo Ruelas y Jorge Salgado.
+
+En primer lugar tenemos la opcion de ingresar el sueldo mensual. 
+A continuacion se muestran las opciones a elegir.
+Dependiendo de que servicio quieras utilizar podras navegar dentro 
+del menu tecleando el numero que corresponde a cada opcion y 
+presionando enter.
+
+Si la opcion que ingresaste no se encuentra dentro de las presentadas, 
+se te indicara que debes teclear otra opcion.
+Dependiendo de las opciones podras ingresar la cantidad de veces que 
+sean necesarias el servicio utilizado, esto te permitira no tener que 
+volver al menu y repetir el proceso una gran cantidad de veces.
+
+Todos los descuentos que se hagan a tu salario podran ser vistos 
+despues de utilizar algun servicio o en cualquier momento tecleando 
+la opcion de "Ver gastos" mostrada en el menu principal.
+
+Si deseas salir del programa recuerda consultar antes los gastos, 
+ya que estos 
+se borraran cada que salgas y entres
+nuevamente al programa.
+
+Ojala te sea de utilidad este programa y viaja seguro.
+
+CREDITOS: Jorge Salgado y Ricardo Ruelas (FDP)
